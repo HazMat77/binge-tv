@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-tv/main/BingeTV-1.0.1-universal.apk",
+  "downloadUrlArm64": "",
+  "downloadUrlArm32": "",
+  "releaseNotes": "Binge TV now asks you to sign in. Back asks before leaving the app. Remote control fixes."
+}
